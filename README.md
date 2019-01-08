@@ -23,8 +23,7 @@ A step by step series of examples that tell you how to get a development env run
 
 
 ```
-git clone https://github.com/neu-mis-info6150-fall-2018/final-project-ignore.git
-```
+git clone https://github.com/charmydesai30/BeatShare
 
 #### open the file in any text editor and /or run the terminal command
 Open terminal inside Beatshare app folder
@@ -52,4 +51,4 @@ npm start
 ```
 
 
-![alt text](https://github.com/neu-mis-info6150-fall-2018/final-project-ignore/blob/master/BeatShare.svg)
+![alt text](https://github.com/charmydesai30/BeatShare/blob/master/BeatShare.svg)
