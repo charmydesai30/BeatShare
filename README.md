@@ -48,8 +48,5 @@ Open terminal inside expressapp folder
 ```
 npm start
 
-```
 
-
-![alt text](https://github.com/charmydesai30/BeatShare/blob/master/BeatShare.svg)
 
